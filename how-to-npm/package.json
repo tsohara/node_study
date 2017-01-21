@@ -1,0 +1,17 @@
+{
+  "name": "@sohara/how-to-npm",
+  "version": "1.2.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://git.com"
+  }
+}
